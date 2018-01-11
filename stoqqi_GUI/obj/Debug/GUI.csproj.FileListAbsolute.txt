@@ -1,0 +1,16 @@
+C:\Users\sapie\source\repos\ControleDeEstoque\stoqqi_GUI\bin\Debug\stoqqi_GUI.exe.config
+C:\Users\sapie\source\repos\ControleDeEstoque\stoqqi_GUI\bin\Debug\stoqqi_GUI.exe
+C:\Users\sapie\source\repos\ControleDeEstoque\stoqqi_GUI\bin\Debug\stoqqi_GUI.pdb
+C:\Users\sapie\source\repos\ControleDeEstoque\stoqqi_GUI\bin\Debug\BLL.dll
+C:\Users\sapie\source\repos\ControleDeEstoque\stoqqi_GUI\bin\Debug\DAL.dll
+C:\Users\sapie\source\repos\ControleDeEstoque\stoqqi_GUI\bin\Debug\Modelo.dll
+C:\Users\sapie\source\repos\ControleDeEstoque\stoqqi_GUI\bin\Debug\BLL.pdb
+C:\Users\sapie\source\repos\ControleDeEstoque\stoqqi_GUI\bin\Debug\DAL.pdb
+C:\Users\sapie\source\repos\ControleDeEstoque\stoqqi_GUI\bin\Debug\Modelo.pdb
+C:\Users\sapie\source\repos\ControleDeEstoque\stoqqi_GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\sapie\source\repos\ControleDeEstoque\stoqqi_GUI\obj\Debug\stoqqi_GUI.Properties.Resources.resources
+C:\Users\sapie\source\repos\ControleDeEstoque\stoqqi_GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\sapie\source\repos\ControleDeEstoque\stoqqi_GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\sapie\source\repos\ControleDeEstoque\stoqqi_GUI\obj\Debug\stoqqi_GUI.exe
+C:\Users\sapie\source\repos\ControleDeEstoque\stoqqi_GUI\obj\Debug\stoqqi_GUI.pdb
+C:\Users\sapie\source\repos\ControleDeEstoque\stoqqi_GUI\obj\Debug\stoqqi_GUI.frmPrincipal.resources

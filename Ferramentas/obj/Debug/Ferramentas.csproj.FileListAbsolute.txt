@@ -1,0 +1,6 @@
+C:\Users\sapie\source\repos\ControleDeEstoque\Ferramentas\bin\Debug\Ferramentas.dll
+C:\Users\sapie\source\repos\ControleDeEstoque\Ferramentas\bin\Debug\Ferramentas.pdb
+C:\Users\sapie\source\repos\ControleDeEstoque\Ferramentas\obj\Debug\Ferramentas.csprojResolveAssemblyReference.cache
+C:\Users\sapie\source\repos\ControleDeEstoque\Ferramentas\obj\Debug\Ferramentas.csproj.CoreCompileInputs.cache
+C:\Users\sapie\source\repos\ControleDeEstoque\Ferramentas\obj\Debug\Ferramentas.dll
+C:\Users\sapie\source\repos\ControleDeEstoque\Ferramentas\obj\Debug\Ferramentas.pdb

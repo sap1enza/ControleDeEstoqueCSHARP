@@ -1,0 +1,10 @@
+C:\Users\sapie\source\repos\ControleDeEstoque\BLL\bin\Debug\BLL.dll
+C:\Users\sapie\source\repos\ControleDeEstoque\BLL\bin\Debug\BLL.pdb
+C:\Users\sapie\source\repos\ControleDeEstoque\BLL\bin\Debug\DAL.dll
+C:\Users\sapie\source\repos\ControleDeEstoque\BLL\bin\Debug\Modelo.dll
+C:\Users\sapie\source\repos\ControleDeEstoque\BLL\bin\Debug\DAL.pdb
+C:\Users\sapie\source\repos\ControleDeEstoque\BLL\bin\Debug\Modelo.pdb
+C:\Users\sapie\source\repos\ControleDeEstoque\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\sapie\source\repos\ControleDeEstoque\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\sapie\source\repos\ControleDeEstoque\BLL\obj\Debug\BLL.dll
+C:\Users\sapie\source\repos\ControleDeEstoque\BLL\obj\Debug\BLL.pdb

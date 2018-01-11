@@ -1,0 +1,4 @@
+DESKTOP-FT13SAK\SQLEXPRESS
+ControleDeEstoque
+sa
+chmdrw24

@@ -1,0 +1,8 @@
+C:\Users\sapie\source\repos\ControleDeEstoque\DAL\bin\Debug\DAL.dll
+C:\Users\sapie\source\repos\ControleDeEstoque\DAL\bin\Debug\DAL.pdb
+C:\Users\sapie\source\repos\ControleDeEstoque\DAL\bin\Debug\Modelo.dll
+C:\Users\sapie\source\repos\ControleDeEstoque\DAL\bin\Debug\Modelo.pdb
+C:\Users\sapie\source\repos\ControleDeEstoque\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\sapie\source\repos\ControleDeEstoque\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\sapie\source\repos\ControleDeEstoque\DAL\obj\Debug\DAL.dll
+C:\Users\sapie\source\repos\ControleDeEstoque\DAL\obj\Debug\DAL.pdb
